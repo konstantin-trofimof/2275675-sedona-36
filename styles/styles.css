@@ -146,3 +146,32 @@ body {
   text-transform: uppercase;
   color: #000000;
 }
+
+.search-hotels-in-sedona {
+  text-align: center;
+}
+
+.search-hotels-in-sedona-lead {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.search-hotels-in-sedona-text {
+  font-size: 22px;
+  line-height: 26px;
+  color: #333333;
+}
+
+.search-hotels-in-sedona-by-date-button {
+  font-family: inherit;
+  background-color: #756157;
+  color: #FFFFFF;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 36px;
+  text-transform: uppercase;
+}
